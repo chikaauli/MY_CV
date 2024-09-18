@@ -13,15 +13,15 @@ const Header = () => {
         <div className="text-slate-200">
           <h1 className="font-black text-4xl">Chika Aulia Zahwa</h1>
           <h6 className="font-medium mt-3 text-lg max-w-xs leading-normal">
-            Junior Front-End Web Development
+            Junior Front-End Engineer
           </h6>
         </div>
         <p className="mt-4 max-w-md leading-normal">
-          Recent college graduate with a degree in Information Engineering. I am
-          very passionate about IT and programming. I am an energetic programmer
-          skilled in React JS and web app design. With strong curiosity, I like
-          to learn something new in my life, especially about IT and programming
-          language.
+          I'm Recent college graduate with a degree in Information Engineering.
+          I am very passionate about IT and programming. I am an energetic
+          programmer skilled in React JS and web app design. With strong
+          curiosity, I like to learn something new in my life, especially about
+          IT and programming language.
         </p>
 
         {/* Action Button */}

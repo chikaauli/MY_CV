@@ -8,34 +8,24 @@ const AboutMe = () => {
       <NavTitle title={"About-Me"} />
       <div className="font-normal text-md">
         <p className="mb-4">
-          If there is free time, I am now developing a whatsapp bot called
-          <Link
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            to={"https://suika.pw"}
-            target="_blank"
-          >
-            {" "}
-            SuikaBot
-          </Link>{" "}
-          with 3 of my friends, which now has the name{" "}
-          <Link
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            to={"https://github.com/orgs/SuikaBot/teams/suikadev"}
-            target="_blank"
-          >
-            SuikaDev
-          </Link>
-          , with various planning and features designed to make people's work
-          easier or for fun, as well as exploring the latest technology with.
+          Back in 2020, driven by my love for technology and creativity. Since
+          then, I've honed my skills in HTML, CSS, JavaScript, and various
+          frameworks like Laravel and React JS. My approach combines aesthetics
+          with functionality, ensuring that every project I work on is visually
+          appealing and user-friendly.
         </p>
         <p className="mb-4">
-          Despite being a full-stack web developer, my focus is more on the
-          back-end because I am not confident in my design skills (if there is
-          no reference :p).
+          In my portfolio, you will find a selection of my favorite projects
+          that showcase my skills such as UI/UX design, front-end development,
+          etc. I am passionate about collaboration and enjoy bringing ideas to
+          life, both when working with clients and on personal projects.
         </p>
         <p className="mb-4">
-          My free time is used for refreshing by playing game and watching anime
-          , its a hard choice's beetween to playing a game or watching anime...
+          Fun Fact About Me, i'm a matcha fan🍵 and believe that great ideas
+          often come from a good drink. When I'm not coding, you can find me
+          watching movies, reading, or painting. I'm always learning! Whether
+          it's a new framework or design trend, I love being on the cutting
+          edge^^.
         </p>
       </div>
 
