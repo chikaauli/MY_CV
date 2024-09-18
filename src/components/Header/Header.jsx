@@ -17,11 +17,11 @@ const Header = () => {
           </h6>
         </div>
         <p className="mt-4 max-w-md leading-normal">
-          I'm Recent college graduate with a degree in Information Engineering.
-          I am very passionate about IT and programming. I am an energetic
-          programmer skilled in React JS and web app design. With strong
-          curiosity, I like to learn something new in my life, especially about
-          IT and programming language.
+          I'm fresh graduate with a degree in Information Engineering. I am very
+          passionate about IT and programming. I am an energetic programmer
+          skilled in React JS and web app design. With strong curiosity, I like
+          to learn something new in my life, especially about IT and programming
+          language.
         </p>
 
         {/* Action Button */}
