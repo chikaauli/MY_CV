@@ -14,7 +14,10 @@ const projectsData = [
     link: "https://github.com/TA-FEBE-REMEDIAL/FE-REMEDIAL",
     additionals: [
       {
-        show: false,
+        show: true,
+        link: "https://www.figma.com/proto/7p9ObiFQUflqgGjm7lH8MQ/TA?page-id=26%3A52645&node-id=861-17250&viewport=-7616%2C20816%2C0.36&t=O7E59heDk1APiYUA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=861%3A17250&show-proto-sidebar=1",
+        icon: "fa-brands fa-figma",
+        text: "Prototype",
       },
     ],
     tag: [
