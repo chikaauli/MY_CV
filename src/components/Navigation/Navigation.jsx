@@ -48,7 +48,7 @@ const Navigation = () => {
 
   return (
     <nav className="nav hidden lg:block">
-      <ul className="lg:mt-16 w-max uppercase">
+      <ul className="lg:mt-5 w-max uppercase">
         {navItems.map((item, index) => (
           <li key={index}>
             <Link
