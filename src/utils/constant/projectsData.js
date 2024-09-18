@@ -65,7 +65,7 @@ const projectsData = [
     id: 4,
     title: "SIWIKODE",
     category: "Web",
-    desc: " a website",
+    desc: "A web application was built using the CI 3 and Boostrap 4 frameworks, which resulted in the creation of the Depok City Tourism Information System (SIWIKODE).",
     img: SiwikodeImg,
     link: "https://siwikode.netlify.app/",
     additionals: [
