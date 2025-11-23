@@ -8,24 +8,36 @@ const AboutMe = () => {
       <NavTitle title={"About-Me"} />
       <div className="font-normal text-md">
         <p className="mb-4">
-          Back in 2020, driven by my love for technology and creativity. Since
-          then, I've honed my skills in HTML, CSS, JavaScript, and various
-          frameworks like Laravel and React JS. My approach combines aesthetics
-          with functionality, ensuring that every project I work on is visually
-          appealing and user-friendly.
+          Back in 2020, driven by my love for technology and creativity, I began
+          exploring the world of web development. Since then, I’ve honed my
+          skills in HTML, CSS, JavaScript, and frameworks like Laravel and React
+          JS. What started as a simple curiosity soon grew into a passion for
+          creating digital experiences that are not only functional but also
+          visually engaging.
+        </p>
+        <p className="mb-4">
+          As my journey continued, I expanded beyond front-end development and
+          entered the world of system integration. This led me to work
+          professionally as a Middleware Engineer, where I design and implement
+          SOA solutions, monitor system performance, and collaborate with
+          development and infrastructure teams. This experience strengthened my
+          problem-solving skills and deepened my understanding of how systems
+          communicate behind the scenes—knowledge that complements my front-end
+          expertise perfectly.
         </p>
         <p className="mb-4">
           In my portfolio, you will find a selection of my favorite projects
-          that showcase my skills such as UI/UX design, front-end development,
-          etc. I am passionate about collaboration and enjoy bringing ideas to
-          life, both when working with clients and on personal projects.
+          showcasing my skills in UI/UX design, front-end development, and
+          application integration. I enjoy collaborating with others, turning
+          ideas into intuitive and user-friendly digital products—whether it's
+          for clients, teams, or personal projects.
         </p>
         <p className="mb-4">
-          Fun Fact About Me, i'm a matcha fan🍵 and believe that great ideas
-          often come from a good drink. When I'm not coding, you can find me
-          watching movies, reading, or painting. I'm always learning! Whether
-          it's a new framework or design trend, I love being on the cutting
-          edge^^.
+          Fun fact about me: I’m a matcha fan 🍵 and truly believe that great
+          ideas often come from a good drink. When I’m not coding, you’ll
+          probably find me watching movies, reading, or painting. I’m always
+          learning—whether it’s a new framework, a design trend, or a backend
+          integration concept. Growth keeps the journey exciting ^^
         </p>
       </div>
 

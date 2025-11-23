@@ -1,6 +1,33 @@
 const experienceData = [
   {
     id: 1,
+    title: "Technical Consultant (Middleware)",
+    exTitle_2: null,
+    company: "PT. Infracom Technology",
+    location: null,
+    showcase:
+      "https://www.linkedin.com/company/pt.-infracom-technology/posts/?feedView=all",
+    startDate: "Nov 2024",
+    endDate: "Present",
+    description:
+      "Collaborated with development and infrastructure teams to support SOA-based services, Monitored SOA logs using Graylog to ensure stability, Assisted in enhancing system performance and security for environments used by Bank Indonesia, Provided technical guidance during service development to ensure proper implementation of standards, and Contributed as a Technical Writer in one of the projects by preparing the Interface Design Document (IDD) as part of the integration deliverables.",
+    links: [
+      {
+        show: false,
+      },
+    ],
+    tags: [
+      "SOA",
+      "WebLogic",
+      "Graylog",
+      "Jdeveloper",
+      "Oracle SQL Developer",
+      "Technical Writing",
+      "IDD Documentation",
+    ],
+  },
+  {
+    id: 2,
     title: "Skilvul #Tech4Impact: Front-End Web Development",
     exTitle_2: null,
     company: "PT Impactbyte Educational Technology",
@@ -36,7 +63,7 @@ const experienceData = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     title: "Full-Stack Web Developer",
     exTitle_2: null,
     company: "NF Computer",
@@ -73,7 +100,7 @@ const experienceData = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "General Administration",
     exTitle_2: null,
     company: "Badan Kepegawaian Negara (BKN RI)",

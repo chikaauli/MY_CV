@@ -13,15 +13,22 @@ const Header = () => {
         <div className="text-slate-200">
           <h1 className="font-black text-4xl">Chika Aulia Zahwa</h1>
           <h6 className="font-medium mt-3 text-lg max-w-xs leading-normal">
-            Junior Front-End Engineer
+            Middleware Engineer | Junior Front-End Developer
           </h6>
         </div>
         <p className="mt-4 max-w-md leading-normal">
-          Fresh graduate with a degree in Information Engineering. I am very
-          passionate about IT and programming. I am an energetic programmer
-          skilled in React JS and web app design. With strong curiosity, I like
-          to learn something new in my life, especially about IT and programming
-          language.
+          I am a Middleware Engineer and Front-End Developer with experience in
+          designing and implementing SOA, monitoring system performance, and
+          building responsive web applications. I am passionate about
+          technology, application integration, and creating efficient digital
+          solutions. With expertise in React JS and web development, I enjoy
+          working with teams to deliver secure, high-quality systems.
+        </p>
+
+        <p className="mt-4 max-w-md leading-normal">
+          With a strong curiosity and a continuous learning mindset, I am always
+          looking for opportunities to explore new technologies—especially in
+          the fields of IT, system architecture, and programming.
         </p>
 
         {/* Action Button */}
