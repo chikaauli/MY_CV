@@ -17,18 +17,10 @@ const Header = () => {
           </h6>
         </div>
         <p className="mt-4 max-w-md leading-normal">
-          I am a Middleware Engineer and Front-End Developer with experience in
-          designing and implementing SOA, monitoring system performance, and
-          building responsive web applications. I am passionate about
-          technology, application integration, and creating efficient digital
-          solutions. With expertise in React JS and web development, I enjoy
-          working with teams to deliver secure, high-quality systems.
-        </p>
-
-        <p className="mt-4 max-w-md leading-normal">
-          With a strong curiosity and a continuous learning mindset, I am always
-          looking for opportunities to explore new technologies—especially in
-          the fields of IT, system architecture, and programming.
+          I am a Middleware Engineer and Front-End Developer skilled in SOA,
+          system monitoring, and React-based web applications, passionate about
+          creating efficient solutions and continuously learning new
+          technologies.
         </p>
 
         {/* Action Button */}
